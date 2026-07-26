@@ -1,0 +1,12 @@
+{
+  "heroSlides": [
+    { "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=2200&q=85", "eyebrow": "HomeNet Fiber", "title": "Ultra Fast Internet For Home & Business", "description": "Experience reliable, high-speed internet with 24/7 support and nationwide coverage." },
+    { "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=2200&q=85", "eyebrow": "Built for every day", "title": "A Smarter Connection Starts At Home", "description": "Stream, work, game, and stay connected on a network made for modern life." },
+    { "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=2200&q=85", "eyebrow": "Business-grade network", "title": "Connectivity That Keeps Business Moving", "description": "Dedicated fiber, predictable performance, and expert support for your team." }
+  ],
+  "coverage": [
+    { "title": "Dhaka North", "locations": "Uttara, Mirpur, Banani, Gulshan", "icon": "building" },
+    { "title": "Dhaka South", "locations": "Dhanmondi, Mohammadpur, Motijheel", "icon": "map" },
+    { "title": "Expanding Fast", "locations": "New areas added every month", "icon": "radio" }
+  ]
+}

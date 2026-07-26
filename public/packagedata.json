@@ -1,0 +1,113 @@
+{
+  "internet_packages": [
+    {
+      "name": "Red",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 30,
+      "price_per_month_tk": 525,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed"
+      ]
+    },
+    {
+      "name": "Green",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 40,
+      "price_per_month_tk": 630,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed"
+      ]
+    },
+    {
+      "name": "Blue",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 50,
+      "price_per_month_tk": 735,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed"
+      ]
+    },
+    {
+      "name": "Pink",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 60,
+      "price_per_month_tk": 840,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed",
+        "Free public IP"
+      ]
+    },
+    {
+      "name": "Purple",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 70,
+      "price_per_month_tk": 1050,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed",
+        "Free public IP"
+      ]
+    },
+    {
+      "name": "Brown",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 80,
+      "price_per_month_tk": 1260,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed",
+        "Free public IP"
+      ]
+    },
+    {
+      "name": "Yellow",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 90,
+      "price_per_month_tk": 1680,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed",
+        "Free public IP"
+      ]
+    },
+    {
+      "name": "Golden",
+      "tagline": "Choose a package and start your internet journey",
+      "speed_mbps": 100,
+      "price_per_month_tk": 2100,
+      "vat_percentage": 5,
+      "features": [
+        "Lag-free gaming",
+        "Bufferless streaming",
+        "Clear voice chat",
+        "Unlimited BDIX speed",
+        "Free public IP"
+      ]
+    }
+  ]
+}

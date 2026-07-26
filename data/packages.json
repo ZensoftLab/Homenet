@@ -1,0 +1,8 @@
+{
+  "packages": [
+    { "name": "Bronze", "speed": "20 Mbps", "price": { "amount": "TK 525", "billing_cycle": "monthly", "note": "Including 5% VAT" }, "description": "A dependable everyday connection for your home.", "action": { "text": "Buy Bronze", "url": "#contact" }, "whats_included": ["Lag-free gaming", "Bufferless streaming", "Clear voice chat", "Unlimited BDIX speed"] },
+    { "name": "Silver", "speed": "30 Mbps", "price": { "amount": "TK 725", "billing_cycle": "monthly", "note": "Including 5% VAT" }, "description": "More bandwidth for busy homes and smooth streaming.", "action": { "text": "Buy Silver", "url": "#contact" }, "whats_included": ["Lag-free gaming", "4K-ready streaming", "Priority support", "Unlimited BDIX speed"] },
+    { "name": "Gold", "speed": "50 Mbps", "price": { "amount": "TK 1,050", "billing_cycle": "monthly", "note": "Including 5% VAT" }, "description": "Our most-loved plan for connected family life.", "action": { "text": "Buy Gold", "url": "#contact" }, "whats_included": ["Lag-free gaming", "4K streaming", "Dual-band router support", "Unlimited BDIX speed"], "featured": true },
+    { "name": "Platinum", "speed": "80 Mbps", "price": { "amount": "TK 1,450", "billing_cycle": "monthly", "note": "Including 5% VAT" }, "description": "Maximum performance for power users and creators.", "action": { "text": "Buy Platinum", "url": "#contact" }, "whats_included": ["Competitive gaming", "Multiple 4K streams", "Priority technical support", "Unlimited BDIX speed"] }
+  ]
+}
