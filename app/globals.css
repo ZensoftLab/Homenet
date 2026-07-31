@@ -7,3 +7,6 @@ html { scroll-behavior: smooth; } body { @apply bg-white text-slate-900 antialia
 #corporate h2 + p::after { content: "Drive innovation and efficiency with our enterprise-grade internet connectivity. Designed for demanding business environments, our solutions provide the speed, reliability, and scalability needed to support large teams, real-time collaboration, cloud-based applications, and data-intensive tasks. With robust infrastructure and expert support, your organization stays online and ahead."; display: block; font-size: 1rem; line-height: 1.75rem; }
 #corporate > div > .relative:first-child { background: url("/assets/Corporate-Service.jpg") center / cover no-repeat; }
 #corporate > div > .relative:first-child > img { opacity: 0; }
+.admin-body > header, .admin-body > footer { display:none; }
+.field { display:block; width:100%; border:1px solid #e2e8f0; border-radius:.75rem; padding:.75rem .875rem; outline:none; font-weight:500; }
+.field:focus { border-color:#60a5fa; box-shadow:0 0 0 3px #dbeafe; }
